@@ -30,3 +30,4 @@ seaborn==0.13.2
 matplotlib==3.10.3
 
 # streamlit package
+streamlit==1.45.1
